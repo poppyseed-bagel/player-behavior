@@ -1,4 +1,4 @@
-# Player Cheating Behavior in PubG
+# Player Cheating Behavior in PUBG
 ### Grade: Distinction
 
 ---
